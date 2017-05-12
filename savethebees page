@@ -32,7 +32,7 @@
 
 <!--this is the content for the page-->
 <div class=nottitle>
-  <h2>Check Out What's Buzzing On The Interwebs</h2>
+  <h2>Check Out What's Buzzing On The Interwebs!</h2>
   <p></p>
   <div id=twitter>
     <a class="twitter-timeline"  href="https://twitter.com/hashtag/savethebees" data-widget-id="863044565674143744">#savethebees Tweets</a>
