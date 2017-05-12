@@ -53,3 +53,12 @@ body{
 h2{
   font-size:2.7em;
 }
+
+
+/* SAVE THE BEES PAGE*/
+#instagram {
+  float:right;
+}
+#twitter{
+  float:left
+}
