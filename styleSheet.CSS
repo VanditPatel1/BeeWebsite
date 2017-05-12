@@ -74,6 +74,7 @@ body {
   box-sizing:border-box;
   background-color: rgba(0, 128, 128, 0.8);
   font-weight: 300;
+  font-color:black;
   -webkit-transition:  -webkit-transform .2s ease-out, opacity .3s ease-out;
           transition:          transform .2s ease-out, opacity .3s ease-out;
 }
@@ -81,6 +82,7 @@ body {
   bottom: 50%;
   padding-top:50%;
   font-size: 1.5em;
+  font-color: black;
   z-index: 1;
   -webkit-transform:translate3d(0,-100%,0);
       -ms-transform:translate3d(0,-100%,0);
