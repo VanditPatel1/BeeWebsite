@@ -2,8 +2,8 @@
 
 <head>
 
-<title>Save The Bees</title>
-<link rel="stylesheet" type="text/css" href="/css_stuff">
+<title>What's killing them ?</title>
+<!-- link to style stuff(edit it)<link rel="stylesheet" type="text/css" href="style.css"> -->
 <link href="https://fonts.googleapis.com/css?family=Copse" rel="stylesheet">
 
 </head>
@@ -26,14 +26,20 @@
 <div class=titlepic>
   <img id=titlepic
   src="https://static1.squarespace.com/static/53bdd66be4b0817cc87aaf13/t/53e70241e4b0c0d88b59f26b/1407648328995/Honey+Bee+-+Honeycomb+Yellow.jpg?format=1500w"  style="width:100%">
-  <h1>Title</h1>
+  <h1>What's killing them ?</h1>
 </div>
 
 
 <!--this is the content for the page-->
 <div class=nottitle>
-  <h2>subheading</h2>
-  <p>wordswordswordswordswordswords wordswordswords wordswordswords wordswordswords wordswordswords wordswordswordswordswordswords wordswordswordswordswordswords wordswordswordswordswordswords wordswordswords wordswordswords wordswordswordswords wordswords wordswordswords wordswordswords wordswords wordswordswordswords wordswordswordswordswordswords wordswordswords wordswordswordswordswordswordswordswordswords wordswordswordswordswordswords</p>
+  <h2>1. Pesticides</h2>
+<p>Pesticides can harm bees in two ways. The first is by causing immediate death once they come into contact with the pesticide. The second and less obvious way is by inflicting a slow death, which can mean somehow affecting the regular function of the bee or the colony. Particularly harmful seem to be a class of pesticides called neonicotinoids, and this may be evidence of a lack of regulation in the pesticide industry.</p>
+<h2>2. Habitat Loss</h2>
+<p>Due to development and farming, bees are losing the meadows they depend on for foraging and nesting. Not only is this a major decrease in their source of food, but it aso affects their diversity. This is because their habitats can become isolated, and so the bees never interact with other bee colonies, leading to inbreeding. Because there are fewer available nesting spots, there may also be competition between queens and later starts to forming colonies.</p>
+<h2>3. Diseases</h2>
+<p>This can be from pathogens brought by pesticides, but also from diseases spread from commercially raised bees to wild bees.  There are also mites that harm bees, such as the Varroa mites that target honey bees.</p>
+<h2>4. Climate Change</h2>
+ <p>Climate change can alter when plants flower, or mean that they simply do not flower at all. It also has impacts on extreme weather conditions, such as extended winters. This affects the time bees have to pollinate, or whether they can pollinate at all.</p>
 </div>
 
 </body>
