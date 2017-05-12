@@ -42,9 +42,9 @@ body{
 /*the following isfor the title placement*/
 .titlepic h1 { 
    position: absolute; 
-   top: 33vw;
+   top: 25vw;
    padding:0vw;
-   right: 25vw; 
+   right: 5vw; 
    font-size:10vw;
 }
 
