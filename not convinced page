@@ -2,7 +2,7 @@
 
 <head>
 
-<title>Save The Bees</title>
+<title>Not Convinced</title>
 <link rel="stylesheet" type="text/css" href="/css_stuff">
 <link href="https://fonts.googleapis.com/css?family=Copse" rel="stylesheet">
 
@@ -26,14 +26,19 @@
 <div class=titlepic>
   <img id=titlepic
   src="https://static1.squarespace.com/static/53bdd66be4b0817cc87aaf13/t/53e70241e4b0c0d88b59f26b/1407648328995/Honey+Bee+-+Honeycomb+Yellow.jpg?format=1500w"  style="width:100%">
-  <h1>Title</h1>
+  <h1>Not Convinced?</h1>
 </div>
 
 
 <!--this is the content for the page-->
 <div class=nottitle>
-  <h2>subheading</h2>
-  <p>wordswordswordswordswordswords wordswordswords wordswordswords wordswordswords wordswordswords wordswordswordswordswordswords wordswordswordswordswordswords wordswordswordswordswordswords wordswordswords wordswordswords wordswordswordswords wordswords wordswordswords wordswordswords wordswords wordswordswordswords wordswordswordswordswordswords wordswordswords wordswordswordswordswordswordswordswordswords wordswordswordswordswordswords</p>
+ 
+  <p>Don’t just take our word for it! Our information was gathered from great sites, and we encourage you to visit them too to learn more:</p>
+<a href="http://www.buzzaboutbees.net/ ">Buzz about bees</a>
+<a href="http://nerdytoday.com/10-reasons-bees-matter-extinction-mean-end-humanity/">10 Reasons Why Bees Matter</a>
+<a href="http://e360.yale.edu/features/declining_bee_populations_pose_a_threat_to_global_agriculture">Declining Bee Populations Pose a Threat to Global Agriculture</a>
+<a href="http://modernfarmer.com/2016/05/honeybee-colony-loss/">Honey bees death getting worst</a>
+<a href="http://www.globalresearch.ca/death-and-extinction-of-the-bees/5375684">Death and Extinction of the Bees</a>
 </div>
 
 </body>
