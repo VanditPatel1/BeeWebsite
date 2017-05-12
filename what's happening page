@@ -3,7 +3,7 @@
 <head>
 
 <title>Save The Bees</title>
-<link rel="stylesheet" type="text/css" href="/css_stuff">
+<link rel="stylesheet" type="text/css" href="css_stuff">
 <link href="https://fonts.googleapis.com/css?family=Copse" rel="stylesheet">
 
 </head>
@@ -15,7 +15,7 @@
 <div >
   <ul id=header>
     
-    <li><a href="/Front_HTML.html">Home</a></li>
+    <li><a href="/index.html">Home</a></li>
     <li><a href="/what's happening page">What's Happening?</a></li>
     <li><a href="/what's killing page">What's killing?</a></li>
     <li><a href="/not convinced page">Not convinced?</a></li>
