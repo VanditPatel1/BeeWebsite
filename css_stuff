@@ -62,3 +62,9 @@ h2{
 #twitter{
   float:left
 }
+ #pic1 {
+      background-image: url(http://www.naturalblaze.com/wp-content/uploads/2017/02/Dead-bees-beach-e1486805823145.jpg);
+      background-repeat: no-repeat;
+      background-position: ;
+      padding-top:;
+   }
