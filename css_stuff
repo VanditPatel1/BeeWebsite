@@ -16,7 +16,7 @@ body{
   list-style-type: none;
   overflow: hidden;
   padding: 0;
-  background-color: rgba(225,225,51,.8);
+  background-color: rgba(225,225,51);
   position:fixed;
   top: 0;
   width:100%;
