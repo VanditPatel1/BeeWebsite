@@ -15,21 +15,20 @@
     <li><a href="#about">About</a></li>
   </ul>
 </div>
-  
-<div class="container-fluid text-center">    
-  <div class="row content">
-    
-    <div class="col-sm-8 text-left"> 
-      <h1>Welcome</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <hr>
-      <h3>Test</h3>
-      <p>Lorem ipsum...</p>
-    </div>
-    
-  </div>
+<div class=titlepic>
+  <img id=titlepic
+  src="https://static1.squarespace.com/static/53bdd66be4b0817cc87aaf13/t/53e70241e4b0c0d88b59f26b/1407648328995/Honey+Bee+-+Honeycomb+Yellow.jpg?format=1500w"  style="width:100%">
+  <h1>Title</h1>
+
 </div>
 
-<footer class="container-fluid text-center">
-  <p>Footer Text</p>
-</footer>
+
+
+<div> 
+      
+      
+      
+      <h2>Test</h2>
+      <p>wordswordswordswordswordswords wordswordswords wordswordswords wordswordswords wordswordswords wordswordswordswordswordswords wordswordswordswordswordswords wordswordswordswordswordswords wordswordswords wordswordswords wordswordswordswords wordswords wordswordswordswordswordswords wordswords wordswordswordswords wordswordswordswordswordswords wordswordswords wordswordswordswordswordswordswordswordswords wordswordswordswordswordswords</p>
+</div>
+
