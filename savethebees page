@@ -2,7 +2,7 @@
 
 <head>
 
-<title>Save The Bees</title>
+<title>#savethebees</title>
 <link rel="stylesheet" type="text/css" href="/css_stuff">
 <link href="https://fonts.googleapis.com/css?family=Copse" rel="stylesheet">
 
@@ -37,6 +37,10 @@
   <div id=twitter>
     <a class="twitter-timeline"  href="https://twitter.com/hashtag/savethebees" data-widget-id="863044565674143744">#savethebees Tweets</a>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+  <div id=instagram>
+    <a href="https://instawidget.net/v/tag/savethebees" id="link-5932110f162df9fea3d9cedaf4bd7077cae05c5fd4f977f049d122b2b9aa93a9">#savethebees</a>
+    <script src="https://instawidget.net/js/instawidget.js?u=5932110f162df9fea3d9cedaf4bd7077cae05c5fd4f977f049d122b2b9aa93a9&width=500px"></script>
   </div>
 </div>
 
